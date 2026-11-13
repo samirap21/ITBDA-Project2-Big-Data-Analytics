@@ -1,0 +1,16 @@
+"paragraph_id","sentence","sentence_id","textrank_score"
+1,"Climate change is a long-term change in the average weather patterns that have come to define Earth’s local, regional and global climates.",1,0.118000935042939
+1,"These changes have a broad range of observed effects that are synonymous with the term.",2,0.0503721379586703
+2,"Changes observed in Earth’s climate since the mid-20th century are driven by human activities, particularly fossil fuel burning, which increases heat-trapping greenhouse gas levels in Earth’s atmosphere, raising Earth’s average surface temperature.",3,0.0945027750012528
+2,"Natural processes, which have been overwhelmed by human activities, can also contribute to climate change, including internal variability (e.g., cyclical ocean patterns like El Niño, La Niña and the Pacific Decadal Oscillation) and external forcings (e.g., volcanic activity, changes in the Sun’s energy output, variations in Earth’s orbit).",4,0.0678871688717008
+3,"Scientists use observations from the ground, air, and space, along with computer models, to monitor and study past, present, and future climate change.",5,0.049897284251935
+3,"Climate data records provide evidence of climate change key indicators, such as global land and ocean temperature increases; rising sea levels; ice loss at Earth’s poles and in mountain glaciers; frequency and severity changes in extreme weather such as hurricanes, heatwaves, wildfires, droughts, floods, and precipitation; and cloud and vegetation cover changes.",6,0.0956967761068996
+4,"“Climate change” and “global warming” are often used interchangeably but have distinct meanings.",7,0.0834286840910387
+4,"Similarly, the terms ""weather"" and ""climate"" are sometimes confused, though they refer to events with broadly different spatial- and timescales.",8,0.0459603234352476
+5,"Global warming is the long-term heating of Earth’s surface observed since the pre-industrial period (between 1850 and 1900) due to human activities, primarily fossil fuel burning, which increases heat-trapping greenhouse gas levels in Earth’s atmosphere.",9,0.0934451297524961
+5,"This term is not interchangeable with the term ""climate change.""",10,0.101129433590651
+6,"Since the pre-industrial period, human activities are estimated to have increased Earth’s global average temperature by about 1 degree Celsius (1.8 degrees Fahrenheit), a number that is currently increasing by more than 0.2 degrees Celsius (0.36 degrees Fahrenheit) per decade.",11,0.0483235247684344
+6,"The current warming trend is unequivocally the result of human activity since the 1950s and is proceeding at an unprecedented rate over millennia.",12,0.0354820311546023
+7,"Weather refers to atmospheric conditions that occur locally over short periods of time—from minutes to hours or days.",13,0.0217252437494949
+7,"Familiar examples include rain, snow, clouds, winds, floods, or thunderstorms.",14,0.0124024267315245
+8,"Climate, on the other hand, refers to the long-term (usually at least 30 years) regional or even global average of temperature, humidity, and rainfall patterns over seasons, years, or decades.",15,0.0817461254931134

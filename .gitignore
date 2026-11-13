@@ -1,0 +1,59 @@
+# Hadoop/YARN temporary execution directories and logs
+**/yarn-local/
+**/yarn-logs/
+**/nm-local-dir/
+**/nmPrivate/
+**/usercache/
+**/filecache/
+**/logs/
+*.log
+
+# Generated Java build artifacts (keep source .java and final .jar)
+**/classes/
+*.class
+
+# Python / Jupyter generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# R / RStudio session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Local IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+~$*
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*.json
+*secret*.json
+
+# PostgreSQL local database files/backups
+pgdata/
+postgres-data/
+*.sql.backup
+*.dump
+*.backup
+
+# NOTE: do NOT ignore .csv, .zip, .ipynb, .R, .java, .sql,
+# .png, .jpg, .pdf, .docx, .txt or final .jar files.

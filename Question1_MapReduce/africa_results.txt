@@ -1,0 +1,16 @@
+doc1.txt:row=1	columns=64
+doc2.txt:row=1	columns=57
+doc2.txt:row=33	columns=24
+doc2.txt:row=58	columns=81
+doc3.txt:row=1	columns=38
+doc3.txt:row=3	columns=7
+doc3.txt:row=40	columns=146
+doc3.txt:row=46	columns=7
+doc3.txt:row=5	columns=7
+doc3.txt:row=50	columns=142
+doc3.txt:row=52	columns=86
+doc3.txt:row=54	columns=44
+doc5.txt:row=1	columns=62
+doc5.txt:row=23	columns=121
+doc5.txt:row=3	columns=88
+doc5.txt:row=38	columns=27
